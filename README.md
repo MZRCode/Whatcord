@@ -1,4 +1,4 @@
-# 🟢 Discord Tracker - WhatsApp UI
+# 🟢 Discord User Tracker - WhatsApp UI
 Bu proje, belirli bir **Discord User ID**'sine sahip bir kullanıcıyı takip ederek (trackleyerek) **WhatsApp tarzı bir UI** ile kullanıcının aktivitelerini görüntülemenizi sağlar.
 
 ## 🚀 Özellikler
